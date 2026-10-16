@@ -1,0 +1,1 @@
+NDefines.NFrontend.CAMERA_MAX_HEIGHT = 6000.0
